@@ -1,0 +1,39 @@
+
+Wyniki symulacji DRR:
+--------------------------------------------------
+
+Stały rozmiar pakietu: 80.000 bitów
+
+Strumień 1:
+  Typ ruchu: CBR
+  Peak rate: 264000.000 bps
+  Wykorzystanie serwera: 26.400%
+  Teoretyczne rho: 26.400%
+  Obsłużone pakiety: 32999999
+  Średni czas oczekiwania: 0.093 ms
+  Średni czas obsługi: 0.080 ms
+  Średnia długość kolejki: 0.493 pakietów
+  Przepustowość: 3300.000 pakietów/s
+  Rzeczywista szybkość: 263999.998 bps
+
+Strumień 2:
+  Typ ruchu: CBR
+  Peak rate: 120000.000 bps
+  Wykorzystanie serwera: 12.000%
+  Teoretyczne rho: 12.000%
+  Obsłużone pakiety: 14999999
+  Średni czas oczekiwania: 0.123 ms
+  Średni czas obsługi: 0.080 ms
+  Średnia długość kolejki: 0.232 pakietów
+  Przepustowość: 1500.000 pakietów/s
+  Rzeczywista szybkość: 119999.995 bps
+
+Statystyki systemu:
+  Czas symulacji: 10000.000 s
+  Wykorzystanie serwera: 38.400%
+  Indeks fairness: 0.877
+
+Aktualne wartości deficytu:
+  Strumień 1: 0.000 bitów
+  Strumień 2: 0.000 bitów
+--------------------------------------------------

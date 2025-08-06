@@ -1,0 +1,41 @@
+
+Wyniki symulacji DRR:
+--------------------------------------------------
+
+Stały rozmiar pakietu: 80.000 bitów
+
+Strumień 1:
+  Typ ruchu: Poisson
+  Średnia szybkość: 320000.000 bps
+  Teoretyczna intensywność napływu: 4000.000 pakietów/s
+  Teoretyczne rho: 32.000%
+  Wykorzystanie serwera: 31.901%
+  Obsłużone pakiety: 39876507
+  Średni czas oczekiwania: 0.148 ms
+  Średni czas obsługi: 0.080 ms
+  Średnia długość kolejki: 0.715 pakietów
+  Przepustowość: 3987.651 pakietów/s
+  Rzeczywista szybkość: 319012.057 bps
+
+Strumień 2:
+  Typ ruchu: Poisson
+  Średnia szybkość: 160000.000 bps
+  Teoretyczna intensywność napływu: 2000.000 pakietów/s
+  Teoretyczne rho: 16.000%
+  Wykorzystanie serwera: 15.977%
+  Obsłużone pakiety: 19971027
+  Średni czas oczekiwania: 0.137 ms
+  Średni czas obsługi: 0.080 ms
+  Średnia długość kolejki: 0.332 pakietów
+  Przepustowość: 1997.103 pakietów/s
+  Rzeczywista szybkość: 159768.217 bps
+
+Statystyki systemu:
+  Czas symulacji: 10000.000 s
+  Wykorzystanie serwera: 47.878%
+  Indeks fairness: 0.900
+
+Aktualne wartości deficytu:
+  Strumień 1: 12000.000 bitów
+  Strumień 2: 11920.000 bitów
+--------------------------------------------------
